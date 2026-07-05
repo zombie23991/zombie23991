@@ -1,9 +1,13 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&color=0:05050A,35:11111A,70:24143F,100:804AE6&text=Adri%C3%A0%20Castany%20Carranza&fontColor=FFFFFF&fontSize=48&fontAlign=50&fontAlignY=35&desc=CEO%20%2F%20CTPO%20%C2%B7%20Product%20Engineering%20%C2%B7%20Founder%20Vision%20%C2%B7%20Frontend%20Taste&descSize=17&descAlign=50&descAlignY=53&animation=fadeIn" alt="Header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=235&section=header&color=0B0B12&text=Adri%C3%A0%20Castany%20Carranza&fontColor=FFFFFF&fontSize=46&fontAlign=50&fontAlignY=38&desc=CEO%20%2F%20CTPO%20%C2%B7%20Product%20Engineering%20%C2%B7%20Founder%20Vision%20%C2%B7%20Frontend%20Taste&descSize=17&descAlign=50&descAlignY=58&animation=fadeIn" alt="Adrià Castany Carranza" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=30&duration=2800&pause=900&color=804AE6&center=true&vCenter=true&width=1050&height=60&lines=I+like+turning+messy+business+problems+into+clean+software+systems.;Product-first+engineering.+Quality-first+execution.;Building+where+business%2C+design+and+engineering+meet.;Frontend+taste.+Backend+ownership.+Founder+vision." alt="Typing SVG" />
+  <img width="180" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=804AE6" alt="Divider" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=28&duration=3000&pause=1200&color=804AE6&center=true&vCenter=true&width=1040&height=58&lines=I+like+turning+messy+business+problems+into+clean+software+systems.;Product-first+engineering.+Quality-first+execution.;Frontend+taste.+Backend+ownership.+Founder+vision.;Building+where+business%2C+design+and+engineering+meet." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -23,8 +27,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zombie23991&style=flat-square&color=804AE6&label=Profile%20views" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/zombie23991?style=flat-square&color=804AE6&labelColor=0B0B12&label=Followers" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/zombie23991?style=flat-square&color=804AE6&labelColor=0B0B12&label=Stars" alt="Stars" />
+  <img src="https://img.shields.io/github/followers/zombie23991?style=flat-square&color=804AE6&labelColor=0B0B12&label=Followers" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/zombie23991?style=flat-square&color=804AE6&labelColor=0B0B12&label=Stars" alt="GitHub stars" />
 </p>
 
 ---
@@ -41,32 +45,60 @@ Right now I am building **Intake**, focused on helping companies resolve interna
 
 I care a lot about quality. Not decorative quality. Product quality: clarity, reliability, speed, maintainability, sharp interfaces, and the feeling that every part of the product is there for a reason.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=804AE6" width="60%" alt="Divider" />
-</p>
-
-| Current Mode | Details |
-|---|---|
-| Company | Building Intake |
-| Role | CEO / CTPO |
-| Core Strength | Product engineering with strong frontend taste |
-| Mindset | Total quality, fast iteration, practical ambition |
-| Style | Serious founder energy with a personal edge |
+<table>
+  <tr>
+    <td align="center" width="20%">
+      <img width="26" src="https://api.iconify.design/lucide:target.svg?color=%23804AE6&width=26&height=26" alt="Target" />
+      <br>
+      <strong>Product</strong>
+      <br>
+      Business problems into sharp product bets
+    </td>
+    <td align="center" width="20%">
+      <img width="26" src="https://api.iconify.design/lucide:layers.svg?color=%23804AE6&width=26&height=26" alt="Layers" />
+      <br>
+      <strong>UX Taste</strong>
+      <br>
+      Clear flows, clean interfaces, premium feel
+    </td>
+    <td align="center" width="20%">
+      <img width="26" src="https://api.iconify.design/lucide:code-2.svg?color=%23804AE6&width=26&height=26" alt="Code" />
+      <br>
+      <strong>Engineering</strong>
+      <br>
+      Full-stack ownership from idea to production
+    </td>
+    <td align="center" width="20%">
+      <img width="26" src="https://api.iconify.design/lucide:sparkles.svg?color=%23804AE6&width=26&height=26" alt="Sparkles" />
+      <br>
+      <strong>AI-Native</strong>
+      <br>
+      Useful AI features, not AI theatre
+    </td>
+    <td align="center" width="20%">
+      <img width="26" src="https://api.iconify.design/lucide:rocket.svg?color=%23804AE6&width=26&height=26" alt="Rocket" />
+      <br>
+      <strong>Speed</strong>
+      <br>
+      Fast iteration without dropping the quality bar
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,tailwind,bootstrap,html,css,vite,figma&theme=dark" alt="Frontend skills" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,tailwind,bootstrap,html,css,vite,figma&theme=dark" alt="Frontend and interface stack" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,nestjs,express,laravel,mongodb,postgres,mysql,redis,supabase&theme=dark" alt="Backend skills" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,nestjs,express,laravel,mongodb,postgres,mysql,redis,supabase&theme=dark" alt="Backend and database stack" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,aws,gcp,vercel,docker,nginx,githubactions,linux,git,github,postman&theme=dark" alt="Cloud and tooling skills" />
+  <img src="https://skillicons.dev/icons?i=flutter,aws,gcp,vercel,docker,nginx,githubactions,linux,git,github,postman&theme=dark" alt="Mobile cloud and tooling stack" />
 </p>
 
 ### AI-Native Product Work
@@ -259,33 +291,12 @@ Part of a startup journey shaped by product experimentation, founder discipline,
 ## GitHub Analytics
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zombie23991&theme=tokyonight" alt="GitHub profile details" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zombie23991&show_icons=true&hide_border=true&bg_color=0B0B12&title_color=FFFFFF&text_color=A1A1AA&icon_color=804AE6&ring_color=804AE6&border_radius=14" alt="GitHub stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zombie23991&layout=compact&hide_border=true&bg_color=0B0B12&title_color=FFFFFF&text_color=A1A1AA&icon_color=804AE6&border_radius=14" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zombie23991&theme=tokyonight" alt="Repositories per language" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zombie23991&theme=tokyonight" alt="Most commit language" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zombie23991&theme=tokyonight" alt="GitHub stats" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zombie23991&theme=tokyonight&utcOffset=2" alt="Productive time" />
-</p>
-
----
-
-## GitHub Trophies
-
-<p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=zombie23991&theme=discord&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=6" alt="GitHub trophies" />
-</p>
-
----
-
-## Contribution Activity
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zombie23991&bg_color=05050A&color=FFFFFF&line=804AE6&point=FFFFFF&area=true&area_color=804AE6&hide_border=true&radius=12" alt="GitHub contribution activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zombie23991&bg_color=0B0B12&color=A1A1AA&line=804AE6&point=FFFFFF&area=true&area_color=804AE6&hide_border=true&radius=14" alt="GitHub contribution activity graph" />
 </p>
 
 ---
@@ -341,12 +352,10 @@ Open_To:
   </a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=24&duration=3500&pause=1200&color=804AE6&center=true&vCenter=true&width=900&height=50&lines=Build+fast.+Think+clearly.+Raise+the+quality+bar." alt="Footer typing SVG" />
+  <img width="180" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=804AE6" alt="Divider" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:804AE6,35:24143F,70:11111A,100:05050A" alt="Footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=24&duration=3500&pause=1200&color=804AE6&center=true&vCenter=true&width=900&height=48&lines=Build+fast.+Think+clearly.+Raise+the+quality+bar." alt="Footer typing SVG" />
 </p>
