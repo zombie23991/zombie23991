@@ -73,67 +73,17 @@ I care about product quality at every layer: strategy, UX, frontend detail, back
   <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,bootstrap,html,css,vite,figma&theme=dark" alt="Frontend" />
 </p>
 
-| Area | Tools |
-|---|---|
-| UI Engineering | React, Angular, Next.js, TypeScript, Vite |
-| Styling | Tailwind CSS, Bootstrap 5, HTML, CSS |
-| Product Design | Figma, UI systems, responsive layouts, interaction quality |
-
-### Backend
+### Backend & Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,nestjs,express,laravel&theme=dark" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,nestjs,express,laravel,mongodb,postgres,mysql,redis,supabase&theme=dark" alt="Backend and Databases" />
 </p>
-
-| Area | Tools |
-|---|---|
-| APIs | FastAPI, Flask, Node.js, Express, NestJS, Laravel |
-| Architecture | REST APIs, async services, auth, integrations, background jobs |
-| Product Systems | SaaS logic, inbox systems, request flows, AI-assisted actions |
-
-### Databases
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,supabase&theme=dark" alt="Databases" />
-</p>
-
-| Area | Tools |
-|---|---|
-| Relational | PostgreSQL, MySQL, MariaDB |
-| NoSQL | MongoDB |
-| Cache / Realtime | Redis, Supabase |
 
 ### Cloud, DevOps & Tooling
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,docker,nginx,githubactions,linux,git,github,postman&theme=dark" alt="Cloud DevOps Tooling" />
+  <img src="https://skillicons.dev/icons?i=flutter,aws,gcp,vercel,docker,nginx,githubactions,linux,git,github,postman&theme=dark" alt="Cloud DevOps Tooling" />
 </p>
-
-| Area | Tools |
-|---|---|
-| Cloud | AWS, GCP, Vercel |
-| Containers & Delivery | Docker, Nginx, GitHub Actions |
-| Workflow | Linux, Git, GitHub, Postman |
-
-### Mobile
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,react&theme=dark" alt="Mobile" />
-</p>
-
-| Area | Tools |
-|---|---|
-| Cross-platform | Flutter, React Native |
-| Focus | Product prototypes, mobile experiences, app foundations |
-
-### AI / Product Systems
-
-| Area | Tools & Concepts |
-|---|---|
-| LLMs | OpenAI, Claude, structured responses, product reasoning |
-| Knowledge Systems | Embeddings, semantic search, RAG, internal context |
-| Agents | Tool use, routing, escalation, action execution |
-| Product Judgment | Applying AI where it reduces searching, asking, waiting, or repeated work |
 
 ---
 
@@ -362,12 +312,12 @@ Part of a startup journey shaped by product experimentation, founder discipline,
 ## GitHub Analytics
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zombie23991&theme=tokyonight" alt="GitHub Profile Details" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zombie23991&show_icons=true&hide_border=true&bg_color=0B0B12&title_color=FFFFFF&text_color=A1A1AA&icon_color=804AE6&ring_color=804AE6&border_radius=14&cache_seconds=86400" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=zombie23991&theme=dark&hide_border=true&background=0B0B12&ring=804AE6&fire=804AE6&currStreakLabel=804AE6&sideLabels=A1A1AA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A1A1AA&border_radius=14" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zombie23991&theme=tokyonight" alt="Repositories per Language" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zombie23991&theme=tokyonight" alt="Most Commit Language" />
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zombie23991&layout=compact&hide_border=true&bg_color=0B0B12&title_color=FFFFFF&text_color=A1A1AA&icon_color=804AE6&border_radius=14&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 ---
