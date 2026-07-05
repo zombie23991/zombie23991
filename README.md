@@ -1,41 +1,37 @@
-<br>
-
-<h1 align="center">Adrià Castany Carranza</h1>
-
 <p align="center">
-  <strong>CEO / CTPO · Product Engineering · Frontend-Obsessed Builder</strong>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&color=0:05050A,35:11111A,70:24143F,100:804AE6&text=Adri%C3%A0%20Castany%20Carranza&fontColor=FFFFFF&fontSize=48&fontAlign=50&fontAlignY=35&desc=CEO%20%2F%20CTPO%20%C2%B7%20Product%20Engineering%20%C2%B7%20Founder%20Vision%20%C2%B7%20Frontend%20Taste&descSize=17&descAlign=50&descAlignY=53&animation=fadeIn" alt="Header" />
 </p>
 
 <p align="center">
-  I like turning messy business problems into clean software systems.
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=30&duration=2800&pause=900&color=804AE6&center=true&vCenter=true&width=1050&height=60&lines=I+like+turning+messy+business+problems+into+clean+software+systems.;Product-first+engineering.+Quality-first+execution.;Building+where+business%2C+design+and+engineering+meet.;Frontend+taste.+Backend+ownership.+Founder+vision." alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://cal.com/adria-castany/let-s-have-a-coffee">
-    <img src="https://img.shields.io/badge/Book%20a%20coffee-111111?style=for-the-badge&labelColor=111111&color=804AE6" alt="Book a coffee" />
+    <img src="https://img.shields.io/badge/Book%20a%20coffee-0B0B12?style=for-the-badge&labelColor=0B0B12&color=804AE6" alt="Book a coffee" />
   </a>
   <a href="https://www.linkedin.com/in/adri%C3%A0-castany-carranza/">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&labelColor=111111&color=804AE6" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0B0B12?style=for-the-badge&labelColor=0B0B12&color=804AE6" alt="LinkedIn" />
   </a>
   <a href="mailto:adriacastany@hotmail.es">
-    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&labelColor=111111&color=804AE6" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-0B0B12?style=for-the-badge&labelColor=0B0B12&color=804AE6" alt="Email" />
   </a>
   <a href="https://github.com/zombie23991">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&labelColor=111111&color=804AE6" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-0B0B12?style=for-the-badge&labelColor=0B0B12&color=804AE6" alt="GitHub" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zombie23991&style=flat-square&color=804AE6&label=Profile%20views" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/zombie23991?style=flat-square&color=804AE6&labelColor=111111&label=Followers" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/zombie23991?style=flat-square&color=804AE6&labelColor=111111&label=Stars" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/followers/zombie23991?style=flat-square&color=804AE6&labelColor=0B0B12&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/zombie23991?style=flat-square&color=804AE6&labelColor=0B0B12&label=Stars" alt="Stars" />
 </p>
 
 ---
 
 ## About
 
-I am a CEO / CTPO and product-driven builder focused on creating software that solves painful business problems with clarity, speed, and taste.
+I am a **CEO / CTPO** and product-driven builder focused on creating software that solves painful business problems with clarity, speed, and taste.
 
 My strength is not being only a programmer, only a designer, or only a business profile. My edge is being hybrid by default: business vision, product judgment, frontend execution, backend ownership, AI-native thinking, and startup speed.
 
@@ -45,7 +41,11 @@ Right now I am building **Intake**, focused on helping companies resolve interna
 
 I care a lot about quality. Not decorative quality. Product quality: clarity, reliability, speed, maintainability, sharp interfaces, and the feeling that every part of the product is there for a reason.
 
-| Area | Focus |
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=804AE6" width="60%" alt="Divider" />
+</p>
+
+| Current Mode | Details |
 |---|---|
 | Company | Building Intake |
 | Role | CEO / CTPO |
@@ -57,17 +57,17 @@ I care a lot about quality. Not decorative quality. Product quality: clarity, re
 
 ## Tech Stack
 
-### Frontend & Product Interface
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,tailwind,bootstrap,html,css,vite,figma&theme=dark" alt="Frontend skills" />
+</p>
 
-`React` · `Next.js` · `Angular` · `TypeScript` · `Tailwind CSS` · `Bootstrap 5` · `HTML` · `CSS` · `Vite` · `Figma`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,nestjs,express,laravel,mongodb,postgres,mysql,redis,supabase&theme=dark" alt="Backend skills" />
+</p>
 
-### Backend & Data
-
-`Python` · `FastAPI` · `Flask` · `Node.js` · `NestJS` · `Express` · `Laravel` · `MongoDB` · `PostgreSQL` · `MySQL` · `MariaDB` · `Redis` · `Supabase`
-
-### Mobile, Cloud & Tooling
-
-`Flutter` · `React Native` · `AWS` · `GCP` · `Vercel` · `Docker` · `Nginx` · `GitHub Actions` · `Linux` · `Git` · `Postman`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,aws,gcp,vercel,docker,nginx,githubactions,linux,git,github,postman&theme=dark" alt="Cloud and tooling skills" />
+</p>
 
 ### AI-Native Product Work
 
@@ -259,12 +259,25 @@ Part of a startup journey shaped by product experimentation, founder discipline,
 ## GitHub Analytics
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zombie23991&theme=github_dark" alt="GitHub profile details" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zombie23991&theme=tokyonight" alt="GitHub profile details" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zombie23991&theme=github_dark" alt="GitHub stats" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zombie23991&theme=github_dark&utcOffset=2" alt="GitHub productive time" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zombie23991&theme=tokyonight" alt="Repositories per language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zombie23991&theme=tokyonight" alt="Most commit language" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zombie23991&theme=tokyonight" alt="GitHub stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zombie23991&theme=tokyonight&utcOffset=2" alt="Productive time" />
+</p>
+
+---
+
+## GitHub Trophies
+
+<p align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=zombie23991&theme=discord&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=6" alt="GitHub trophies" />
 </p>
 
 ---
@@ -272,7 +285,7 @@ Part of a startup journey shaped by product experimentation, founder discipline,
 ## Contribution Activity
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zombie23991&theme=minimal&hide_border=true&bg_color=ffffff&color=111111&line=804AE6&point=111111&area=true&area_color=804AE6" alt="GitHub contribution activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zombie23991&bg_color=05050A&color=FFFFFF&line=804AE6&point=FFFFFF&area=true&area_color=804AE6&hide_border=true&radius=12" alt="GitHub contribution activity graph" />
 </p>
 
 ---
@@ -315,23 +328,25 @@ Open_To:
 
 <p align="center">
   <a href="https://cal.com/adria-castany/let-s-have-a-coffee">
-    <img src="https://img.shields.io/badge/Schedule%20a%20call-111111?style=for-the-badge&labelColor=111111&color=804AE6" alt="Schedule a call" />
+    <img src="https://img.shields.io/badge/Schedule%20a%20call-0B0B12?style=for-the-badge&labelColor=0B0B12&color=804AE6" alt="Schedule a call" />
   </a>
   <a href="https://www.linkedin.com/in/adri%C3%A0-castany-carranza/">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&labelColor=111111&color=804AE6" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0B0B12?style=for-the-badge&labelColor=0B0B12&color=804AE6" alt="LinkedIn" />
   </a>
   <a href="mailto:adriacastany@hotmail.es">
-    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&labelColor=111111&color=804AE6" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-0B0B12?style=for-the-badge&labelColor=0B0B12&color=804AE6" alt="Email" />
   </a>
   <a href="https://github.com/zombie23991">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&labelColor=111111&color=804AE6" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-0B0B12?style=for-the-badge&labelColor=0B0B12&color=804AE6" alt="GitHub" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <strong>I like turning messy business problems into clean software systems.</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=24&duration=3500&pause=1200&color=804AE6&center=true&vCenter=true&width=900&height=50&lines=Build+fast.+Think+clearly.+Raise+the+quality+bar." alt="Footer typing SVG" />
 </p>
 
-<br>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:804AE6,35:24143F,70:11111A,100:05050A" alt="Footer" />
+</p>
