@@ -1,27 +1,31 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=235&section=header&color=0B0B12&text=Adri%C3%A0%20Castany%20Carranza&fontColor=FFFFFF&fontSize=46&fontAlign=50&fontAlignY=38&desc=CEO%20%2F%20CTPO%20%C2%B7%20Product%20Engineering%20%C2%B7%20Founder%20Vision%20%C2%B7%20Frontend%20Taste&descSize=17&descAlign=50&descAlignY=58&animation=fadeIn" alt="Adrià Castany Carranza" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=285&section=header&color=0:05050A,35:11111A,70:24143F,100:804AE6&text=Adri%C3%A0%20Castany%20Carranza&fontColor=FFFFFF&fontSize=48&fontAlign=50&fontAlignY=36&desc=CEO%20%2F%20CTPO%20%C2%B7%20Product%20Engineering%20%C2%B7%20Founder%20Vision%20%C2%B7%20Frontend%20Taste&descSize=17&descAlign=50&descAlignY=55&animation=fadeIn" alt="Adrià Castany Carranza" />
 </p>
 
 <p align="center">
-  <img width="180" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=804AE6" alt="Divider" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=28&duration=3000&pause=1100&color=804AE6&center=true&vCenter=true&width=1040&height=58&lines=I+like+turning+messy+business+problems+into+clean+software+systems.;Product-first+engineering.+Quality-first+execution.;Frontend+taste.+Backend+ownership.+Founder+vision.;Building+where+business%2C+design+and+engineering+meet." alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=28&duration=3000&pause=1200&color=804AE6&center=true&vCenter=true&width=1040&height=58&lines=I+like+turning+messy+business+problems+into+clean+software+systems.;Product-first+engineering.+Quality-first+execution.;Frontend+taste.+Backend+ownership.+Founder+vision.;Building+where+business%2C+design+and+engineering+meet." alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/Lanzadera-Startup%20Ecosystem-804AE6?style=flat-square&labelColor=0B0B12" alt="Lanzadera" />
+  <img src="https://img.shields.io/badge/TecnoCampus-Founder%20Journey-6D28D9?style=flat-square&labelColor=0B0B12" alt="TecnoCampus" />
+  <img src="https://img.shields.io/badge/Product%20Engineering-Total%20Quality-4F46E5?style=flat-square&labelColor=0B0B12" alt="Product Engineering" />
+  <img src="https://img.shields.io/badge/Frontend-High%20Taste-7C3AED?style=flat-square&labelColor=0B0B12" alt="Frontend" />
 </p>
 
 <p align="center">
-  <a href="https://cal.com/adria-castany/let-s-have-a-coffee">
-    <img src="https://img.shields.io/badge/Book%20a%20coffee-0B0B12?style=for-the-badge&labelColor=0B0B12&color=804AE6" alt="Book a coffee" />
+  <img src="https://img.shields.io/badge/Spain-Europe-804AE6?style=for-the-badge&labelColor=0B0B12" alt="Location Spain" />
+  <a href="https://github.com/zombie23991?tab=repositories">
+    <img src="https://img.shields.io/badge/Portfolio-Repositories-804AE6?style=for-the-badge&labelColor=0B0B12" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/adri%C3%A0-castany-carranza/">
-    <img src="https://img.shields.io/badge/LinkedIn-0B0B12?style=for-the-badge&labelColor=0B0B12&color=804AE6" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-804AE6?style=for-the-badge&labelColor=0B0B12" alt="LinkedIn" />
   </a>
   <a href="mailto:adriacastany@hotmail.es">
-    <img src="https://img.shields.io/badge/Email-0B0B12?style=for-the-badge&labelColor=0B0B12&color=804AE6" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact-804AE6?style=for-the-badge&labelColor=0B0B12" alt="Email" />
   </a>
   <a href="https://github.com/zombie23991">
-    <img src="https://img.shields.io/badge/GitHub-0B0B12?style=for-the-badge&labelColor=0B0B12&color=804AE6" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-zombie23991-804AE6?style=for-the-badge&labelColor=0B0B12" alt="GitHub" />
   </a>
 </p>
 
@@ -43,91 +47,60 @@ I like being close to the problem, close to the user, and close to the code. Tha
 
 Right now I am building **Intake**, focused on helping companies resolve internal doubts and requests without adding more work, more waiting, or more back-and-forth for another person.
 
-I care a lot about quality. Not decorative quality. Product quality: clarity, reliability, speed, maintainability, sharp interfaces, and the feeling that every part of the product is there for a reason.
+I care about product quality at every layer: strategy, UX, frontend detail, backend reliability, AI behavior, system maintainability, and the feeling that every part of the product is there for a reason.
 
-<table>
-  <tr>
-    <td align="center" width="20%">
-      <img width="26" src="https://api.iconify.design/lucide:target.svg?color=%23804AE6&width=26&height=26" alt="Target" />
-      <br>
-      <strong>Product</strong>
-      <br>
-      Business problems into sharp product bets
-    </td>
-    <td align="center" width="20%">
-      <img width="26" src="https://api.iconify.design/lucide:layers.svg?color=%23804AE6&width=26&height=26" alt="Layers" />
-      <br>
-      <strong>UX Taste</strong>
-      <br>
-      Clear flows, clean interfaces, premium feel
-    </td>
-    <td align="center" width="20%">
-      <img width="26" src="https://api.iconify.design/lucide:code-2.svg?color=%23804AE6&width=26&height=26" alt="Code" />
-      <br>
-      <strong>Engineering</strong>
-      <br>
-      Full-stack ownership from idea to production
-    </td>
-    <td align="center" width="20%">
-      <img width="26" src="https://api.iconify.design/lucide:sparkles.svg?color=%23804AE6&width=26&height=26" alt="Sparkles" />
-      <br>
-      <strong>AI-Native</strong>
-      <br>
-      Useful AI features, not AI theatre
-    </td>
-    <td align="center" width="20%">
-      <img width="26" src="https://api.iconify.design/lucide:rocket.svg?color=%23804AE6&width=26&height=26" alt="Rocket" />
-      <br>
-      <strong>Speed</strong>
-      <br>
-      Fast iteration without dropping the quality bar
-    </td>
-  </tr>
-</table>
+**Open To**
+
+- Founder conversations
+- Product and engineering collaborations
+- Technical and product advisory
+- Startup ecosystem opportunities
+- People who want to build serious products with serious taste
 
 ---
 
 ## Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,tailwind,bootstrap,html,css,vite,figma&theme=dark" alt="Frontend and interface stack" />
-</p>
+### Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,nestjs,express,laravel,mongodb,postgres,mysql,redis,supabase&theme=dark" alt="Backend and database stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,php,dart,java,bash&theme=dark" alt="Languages" />
 </p>
+
+### Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,aws,gcp,vercel,docker,nginx,githubactions,linux,git,github,postman&theme=dark" alt="Mobile cloud and tooling stack" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,bootstrap,html,css,vite,figma&theme=dark" alt="Frontend" />
 </p>
 
-### AI-Native Product Work
+### Backend & Databases
 
-| Area | Practical use |
-|---|---|
-| LLM integrations | Product features powered by OpenAI, Claude, and structured AI responses |
-| Embeddings | Semantic search, knowledge retrieval, and internal context systems |
-| RAG | Turning company knowledge into useful answers with source-aware logic |
-| Agents | Tool use, routing, escalation, and action-oriented product behavior |
-| Product judgment | Applying AI only where it makes the product simpler, faster, or more useful |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,nestjs,express,laravel,mongodb,postgres,mysql,redis,supabase&theme=dark" alt="Backend and Databases" />
+</p>
+
+### Cloud, DevOps & Tooling
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,aws,gcp,vercel,docker,nginx,githubactions,linux,git,github,postman&theme=dark" alt="Cloud DevOps Tooling" />
+</p>
 
 ---
 
-## Product & Engineering Expertise
+## AI / ML Expertise
 
-| Domain | Level | How I use it |
+| Domain | Proficiency | Details |
 |---|---:|---|
-| Product Strategy | Advanced | Turning messy business problems into clear product bets, MVP scopes, and execution plans |
-| Frontend Engineering | Advanced | Building modern interfaces with strong UI/UX taste, clean components, responsive layouts, and premium product feel |
-| Full Stack Development | Advanced | Owning frontend, backend, APIs, databases, authentication, integrations, and deployment end to end |
-| AI Product Systems | Strong | Applying LLMs, embeddings, RAG, and agents to real business use cases without making the product feel like a gimmick |
-| Startup Execution | Advanced | Moving from idea to shipped product quickly while keeping quality, clarity, and customer learning in the loop |
-| Technical Leadership | Strong | Making pragmatic technical decisions and keeping the team focused on what actually moves the product forward |
-| Design Taste | Strong | Translating business value into product experiences that feel simple, sharp, and easy to use |
+| LLM Product Integration | Strong | Building product features with OpenAI, Claude, structured responses, internal context, and practical user-facing AI behavior |
+| Retrieval-Augmented Generation | Strong | Knowledge ingestion, semantic search, embeddings, context retrieval, and source-aware answers |
+| AI Agents | Strong | Tool use, routing, escalation logic, action execution, and task-specific assistants designed around real product flows |
+| Natural Language Interfaces | Strong | Turning complex business actions into simple conversational experiences that feel useful instead of gimmicky |
+| AI Product Judgment | Advanced | Applying AI only where it makes the product clearer, faster, or more useful |
+| Evaluation & Iteration | Strong | Improving AI behavior through feedback, edge cases, product constraints, and real usage patterns |
 
 ---
 
-## Featured Product Chapters
+## Featured Projects
 
 <details>
 <summary><strong>Intake — Internal doubts and requests, resolved faster</strong></summary>
@@ -138,13 +111,12 @@ Intake helps companies resolve internal doubts and requests without forcing anot
 
 | Category | Details |
 |---|---|
-| Role | CEO / CTPO / Product & Engineering Lead |
-| Scope | Product strategy, frontend, backend, AI systems, integrations, infrastructure, and customer discovery |
 | Stack | React, Angular, TypeScript, FastAPI, Python, MongoDB, Redis, Supabase, AWS, Docker, LLM APIs |
-| Product Focus | Internal knowledge, support requests, company operations, AI-assisted resolution, and human handoff |
-| Technical Focus | Streaming responses, async APIs, cached knowledge, structured routing, and production-first architecture |
+| Scale | Multi-channel support logic, internal knowledge, request handling, team inboxes, AI-assisted routing, and human handoff |
+| Performance | Streaming responses, async APIs, cached knowledge, structured routing, and production-first architecture |
+| Security | Authentication, scoped access, secure secrets, tenant-aware design, and operational safeguards |
 | Impact | Less searching, less asking, less waiting, and more internal things resolved quickly |
-| Status | Active startup focus |
+| Repository | Private product code — [request context](mailto:adriacastany@hotmail.es) |
 
 Intake is where my current product energy is concentrated. It combines product thinking, AI-native software, internal operations, and enterprise-grade usability into a system designed to help teams move faster without adding more work to someone else.
 
@@ -159,12 +131,12 @@ Moodest was part of my earlier founder journey and helped shape how I think abou
 
 | Category | Details |
 |---|---|
-| Role | Founder / Product & Engineering |
-| Scope | Product definition, web app, mobile app, backend, data models, customer discovery, and iteration |
 | Stack | Angular, Laravel, MySQL, Flutter, APIs, dashboards, analytics, product systems |
-| Product Focus | Team insights, internal signals, employee understanding, and decision support |
-| Learning | Building for companies requires clarity, trust, strong UX, and a deep understanding of internal behavior |
-| Status | Previous startup chapter |
+| Scale | Web app, mobile app, dashboards, internal signals, customer discovery, and company-facing product flows |
+| Performance | Structured frontend architecture, backend APIs, data models, and iterative product delivery |
+| Security | Authenticated product areas, protected backend logic, and responsible data handling patterns |
+| Impact | Helped evolve my profile from developer to product-first founder with stronger business and technical judgment |
+| Repository | Private product code — [request context](mailto:adriacastany@hotmail.es) |
 
 Moodest taught me that good software is not only about features. It is about understanding what people are trying to do, what blocks them, and how to design a product that makes the next step feel obvious.
 
@@ -179,12 +151,12 @@ Before Intake, I built and explored different product ideas that helped sharpen 
 
 | Category | Details |
 |---|---|
-| Role | Product Builder / Developer |
-| Scope | Product concepts, UX flows, frontend execution, backend logic, and fast iteration |
-| Focus | Learning through building, validating ideas, and improving product judgment |
-| Technical Focus | Prototyping, interface quality, responsive experiences, and end-to-end implementation |
-| Learning | Speed matters, but clarity matters more |
-| Status | Early product chapters |
+| Stack | Frontend systems, backend logic, product flows, responsive interfaces, and rapid prototyping |
+| Scale | Early-stage product concepts, UX flows, interface execution, and end-to-end implementation |
+| Performance | Fast iteration, clean user flows, lightweight product architecture, and usability-driven execution |
+| Security | Basic product safeguards, protected logic where needed, and careful handling of user-facing behavior |
+| Impact | Strengthened my product judgment, shipping speed, interface taste, and ability to learn through building |
+| Repository | Selected work — [GitHub](https://github.com/zombie23991?tab=repositories) |
 
 These projects represent the experimentation side of my journey: building, testing, learning, and improving how ideas become usable products.
 
@@ -199,13 +171,12 @@ A recurring part of my work is building the technical foundation behind SaaS pro
 
 | Category | Details |
 |---|---|
-| Role | Full Stack / Product Engineering |
-| Scope | API design, backend architecture, cloud deployment, data modeling, authentication, integrations, and observability |
 | Stack | FastAPI, Flask, Node.js, NestJS, Laravel, MongoDB, MySQL, PostgreSQL, Redis, Supabase, AWS, GCP, Docker |
-| Product Focus | Reliable software foundations that let teams build and iterate faster |
-| Technical Focus | Async services, caching, production deployment, structured APIs, and maintainable system boundaries |
+| Scale | API design, backend architecture, cloud deployment, data modeling, authentication, integrations, and observability |
+| Performance | Async services, caching, production deployment, structured APIs, and maintainable system boundaries |
+| Security | Secrets handling, authentication, role-based access, and environment-safe deployment patterns |
 | Impact | Faster product delivery with systems that can grow beyond the first MVP |
-| Status | Ongoing technical foundation |
+| Repository | Selected work — [GitHub](https://github.com/zombie23991?tab=repositories) |
 
 This is the part of the work that makes products real: turning screens, ideas, and business logic into systems that can run, scale, and be maintained.
 
@@ -230,6 +201,13 @@ Building Intake as a product-first company focused on helping teams resolve inte
 - Talk to users, extract signal, and turn feedback into product decisions
 - Move fast without letting the product quality bar drop
 
+<p>
+  <img src="https://img.shields.io/badge/CEO%20%2F%20CTPO-0B0B12?style=flat-square&labelColor=0B0B12&color=804AE6" alt="CEO CTPO" />
+  <img src="https://img.shields.io/badge/Product%20Engineering-0B0B12?style=flat-square&labelColor=0B0B12&color=804AE6" alt="Product Engineering" />
+  <img src="https://img.shields.io/badge/Frontend%20Taste-0B0B12?style=flat-square&labelColor=0B0B12&color=804AE6" alt="Frontend Taste" />
+  <img src="https://img.shields.io/badge/Startup%20Execution-0B0B12?style=flat-square&labelColor=0B0B12&color=804AE6" alt="Startup Execution" />
+</p>
+
 ### Founder  
 **Moodest**  
 **Previous Startup Chapter**
@@ -243,6 +221,13 @@ Built and evolved Moodest as an earlier company chapter, working across product,
 - Developed technical and product judgment through real startup execution
 - Learned how to connect business pain with product simplicity
 - Strengthened the ability to build across design, engineering, and strategy
+
+<p>
+  <img src="https://img.shields.io/badge/Founder-0B0B12?style=flat-square&labelColor=0B0B12&color=804AE6" alt="Founder" />
+  <img src="https://img.shields.io/badge/Angular-0B0B12?style=flat-square&labelColor=0B0B12&color=804AE6" alt="Angular" />
+  <img src="https://img.shields.io/badge/Laravel-0B0B12?style=flat-square&labelColor=0B0B12&color=804AE6" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Flutter-0B0B12?style=flat-square&labelColor=0B0B12&color=804AE6" alt="Flutter" />
+</p>
 
 ### Startup Ecosystem  
 **Lanzadera · TecnoCampus**  
@@ -258,9 +243,17 @@ Part of a startup journey shaped by product experimentation, founder discipline,
 - Improved decision-making around scope, product quality, and speed
 - Learned to build with ambition while staying close to the problem
 
+<p>
+  <img src="https://img.shields.io/badge/Lanzadera-0B0B12?style=flat-square&labelColor=0B0B12&color=804AE6" alt="Lanzadera" />
+  <img src="https://img.shields.io/badge/TecnoCampus-0B0B12?style=flat-square&labelColor=0B0B12&color=804AE6" alt="TecnoCampus" />
+  <img src="https://img.shields.io/badge/Founder%20Journey-0B0B12?style=flat-square&labelColor=0B0B12&color=804AE6" alt="Founder Journey" />
+</p>
+
 ---
 
 ## Achievements
+
+<p align="center">
 
 | Recognition | Details |
 |---|---|
@@ -272,31 +265,87 @@ Part of a startup journey shaped by product experimentation, founder discipline,
 | Startup Ecosystem | Built through real startup environments including Lanzadera and TecnoCampus |
 | Quality Mindset | Obsessed with making products clearer, faster, more useful, and easier to trust |
 
+</p>
+
 ---
 
-## Operating Principles
+## Certifications
 
-| Principle | What it means in practice |
-|---|---|
-| Understand before building | The best technical decision usually starts with understanding the real problem |
-| Taste is leverage | Good UI/UX makes products easier to trust, easier to use, and easier to sell |
-| Ship fast, but not sloppy | Speed matters, but quality creates authority |
-| Product over features | A product is not a list of features. It is a clear way to solve a painful problem |
-| Simplicity wins | The goal is to remove confusion, not impress people with complexity |
-| Stay close to the user | Real feedback beats internal assumptions every time |
-| Build like it has to last | Even MVPs deserve clean foundations when the product is serious |
+### AWS
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-Practical%20Cloud%20Experience-804AE6?style=for-the-badge&labelColor=0B0B12" alt="AWS Practical Cloud Experience" />
+  <img src="https://img.shields.io/badge/ECS%20%2F%20ECR%20%2F%20S3%20%2F%20RDS-Production%20Usage-6D28D9?style=for-the-badge&labelColor=0B0B12" alt="AWS Services" />
+</p>
+
+### Oracle
+
+<p>
+  <img src="https://img.shields.io/badge/Oracle-No%20public%20credential%20listed-804AE6?style=for-the-badge&labelColor=0B0B12" alt="Oracle no public credential listed" />
+</p>
+
+### NPTEL
+
+<p>
+  <img src="https://img.shields.io/badge/NPTEL-No%20public%20credential%20listed-804AE6?style=for-the-badge&labelColor=0B0B12" alt="NPTEL no public credential listed" />
+</p>
+
+### Cisco
+
+<p>
+  <img src="https://img.shields.io/badge/Cisco-No%20public%20credential%20listed-804AE6?style=for-the-badge&labelColor=0B0B12" alt="Cisco no public credential listed" />
+</p>
+
+---
+
+## Coding Profiles
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-Not%20publicly%20listed-0B0B12?style=for-the-badge&labelColor=0B0B12&color=804AE6" alt="LeetCode not publicly listed" />
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Not%20publicly%20listed-0B0B12?style=for-the-badge&labelColor=0B0B12&color=804AE6" alt="GeeksforGeeks not publicly listed" />
+  <img src="https://img.shields.io/badge/HackerRank-Not%20publicly%20listed-0B0B12?style=for-the-badge&labelColor=0B0B12&color=804AE6" alt="HackerRank not publicly listed" />
+  <img src="https://img.shields.io/badge/CodeChef-Not%20publicly%20listed-0B0B12?style=for-the-badge&labelColor=0B0B12&color=804AE6" alt="CodeChef not publicly listed" />
+</p>
 
 ---
 
 ## GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zombie23991&show_icons=true&hide_border=true&bg_color=0B0B12&title_color=FFFFFF&text_color=A1A1AA&icon_color=804AE6&ring_color=804AE6&border_radius=14" alt="GitHub stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zombie23991&layout=compact&hide_border=true&bg_color=0B0B12&title_color=FFFFFF&text_color=A1A1AA&icon_color=804AE6&border_radius=14" alt="Top languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zombie23991&show_icons=true&hide_border=true&bg_color=0B0B12&title_color=FFFFFF&text_color=A1A1AA&icon_color=804AE6&ring_color=804AE6&border_radius=14&cache_seconds=86400" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=zombie23991&theme=dark&hide_border=true&background=0B0B12&ring=804AE6&fire=804AE6&currStreakLabel=804AE6&sideLabels=A1A1AA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A1A1AA&border_radius=14" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zombie23991&bg_color=0B0B12&color=A1A1AA&line=804AE6&point=FFFFFF&area=true&area_color=804AE6&hide_border=true&radius=14" alt="GitHub contribution activity graph" />
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zombie23991&layout=compact&hide_border=true&bg_color=0B0B12&title_color=FFFFFF&text_color=A1A1AA&icon_color=804AE6&border_radius=14&cache_seconds=86400" alt="Top Languages" />
+</p>
+
+---
+
+## GitHub Trophies
+
+<p align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=zombie23991&theme=onedark&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+## Contribution Activity
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zombie23991&bg_color=0B0B12&color=A1A1AA&line=804AE6&point=FFFFFF&area=true&area_color=804AE6&hide_border=true&radius=14" alt="GitHub Contribution Activity Graph" />
+</p>
+
+---
+
+## Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zombie23991/zombie23991/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zombie23991/zombie23991/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/zombie23991/zombie23991/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </p>
 
 ---
@@ -338,24 +387,26 @@ Open_To:
 ## Connect
 
 <p align="center">
-  <a href="https://cal.com/adria-castany/let-s-have-a-coffee">
-    <img src="https://img.shields.io/badge/Schedule%20a%20call-0B0B12?style=for-the-badge&labelColor=0B0B12&color=804AE6" alt="Schedule a call" />
+  <a href="mailto:adriacastany@hotmail.es">
+    <img src="https://img.shields.io/badge/Gmail-adriacastany%40hotmail.es-804AE6?style=for-the-badge&labelColor=0B0B12" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/adri%C3%A0-castany-carranza/">
-    <img src="https://img.shields.io/badge/LinkedIn-0B0B12?style=for-the-badge&labelColor=0B0B12&color=804AE6" alt="LinkedIn" />
-  </a>
-  <a href="mailto:adriacastany@hotmail.es">
-    <img src="https://img.shields.io/badge/Email-0B0B12?style=for-the-badge&labelColor=0B0B12&color=804AE6" alt="Email" />
+    <img src="https://img.shields.io/badge/LinkedIn-Adri%C3%A0%20Castany-804AE6?style=for-the-badge&labelColor=0B0B12" alt="LinkedIn" />
   </a>
   <a href="https://github.com/zombie23991">
-    <img src="https://img.shields.io/badge/GitHub-0B0B12?style=for-the-badge&labelColor=0B0B12&color=804AE6" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-zombie23991-804AE6?style=for-the-badge&labelColor=0B0B12" alt="GitHub" />
+  </a>
+  <a href="https://github.com/zombie23991?tab=repositories">
+    <img src="https://img.shields.io/badge/Portfolio-GitHub%20Repositories-804AE6?style=for-the-badge&labelColor=0B0B12" alt="Portfolio" />
   </a>
 </p>
 
+---
+
 <p align="center">
-  <img width="180" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=804AE6" alt="Divider" />
+  <strong>I like turning messy business problems into clean software systems.</strong>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=24&duration=3500&pause=1200&color=804AE6&center=true&vCenter=true&width=900&height=48&lines=Build+fast.+Think+clearly.+Raise+the+quality+bar." alt="Footer typing SVG" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=145&section=footer&color=0:804AE6,35:24143F,70:11111A,100:05050A" alt="Footer" />
 </p>
