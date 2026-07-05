@@ -1,65 +1,68 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:1e1b4b,35:4c1d95,70:6d28d9,100:312e81&text=Adrià%20Castany&fontColor=ffffff&fontSize=58&fontAlign=50&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Full%20Stack%20Product%20Builder&descAlign=50&descAlignY=58&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,35:111827,70:312e81,100:4c1d95&text=Adri%C3%A0%20Castany%20Carranza&fontColor=ffffff&fontSize=52&fontAlign=50&fontAlignY=38&desc=CEO%20%2F%20CTPO%20%C2%B7%20Product%20Engineering%20%C2%B7%20Frontend-Obsessed%20Full-Stack%20Builder&descAlign=50&descAlignY=58&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Engineering+AI-powered+software+products;Building+scalable+full-stack+systems;Designing+clean+interfaces+and+reliable+backends;Product-minded+engineer+with+startup+execution" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=25&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=1000&lines=I+like+turning+messy+business+problems+into+clean+software+systems.;Building+products+where+business%2C+design+and+engineering+meet.;Product-first+engineering.+Quality-first+execution.;Frontend+taste%2C+backend+ownership%2C+founder+vision." alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software%20Engineering-Enterprise%20Systems-4F46E5?style=flat-square&labelColor=111827" />
-  <img src="https://img.shields.io/badge/AI%20%2F%20ML-Applied%20Engineering-7C3AED?style=flat-square&labelColor=111827" />
-  <img src="https://img.shields.io/badge/Full%20Stack-Product%20Engineering-9333EA?style=flat-square&labelColor=111827" />
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-2563EB?style=flat-square&labelColor=111827" />
+  <img src="https://img.shields.io/badge/Product%20Builder-Founder%20Mode-7C3AED?style=flat-square&labelColor=020617" />
+  <img src="https://img.shields.io/badge/Engineering-Full%20Stack-4F46E5?style=flat-square&labelColor=020617" />
+  <img src="https://img.shields.io/badge/Frontend-High%20Taste-8B5CF6?style=flat-square&labelColor=020617" />
+  <img src="https://img.shields.io/badge/Mindset-Total%20Quality-2563EB?style=flat-square&labelColor=020617" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Spain-6366F1?style=for-the-badge&labelColor=0F172A" />
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F172A" />
+  <img src="https://img.shields.io/badge/Spain-Builder%20based%20in%20Europe-6366F1?style=for-the-badge&labelColor=020617" />
+  <a href="https://cal.com/adria-castany/let-s-have-a-coffee">
+    <img src="https://img.shields.io/badge/Book%20a%20coffee-Let's%20talk-8B5CF6?style=for-the-badge&logo=calendly&logoColor=white&labelColor=020617" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A" />
+  <a href="https://www.linkedin.com/in/adri%C3%A0-castany-carranza/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020617" />
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A" />
+  <a href="mailto:adriacastany@hotmail.es">
+    <img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020617" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Follow-4F46E5?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A" />
+  <a href="https://github.com/zombie23991">
+    <img src="https://img.shields.io/badge/GitHub-Follow-4F46E5?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=7c3aed&label=Profile%20Views" />
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=flat-square&color=6366f1&labelColor=111827&label=Followers" />
-  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=flat-square&color=8b5cf6&labelColor=111827&label=Stars" />
+  <img src="https://komarev.com/ghpvc/?username=zombie23991&style=flat-square&color=7c3aed&label=Profile%20Views" />
+  <img src="https://img.shields.io/github/followers/zombie23991?style=flat-square&color=6366f1&labelColor=020617&label=Followers" />
+  <img src="https://img.shields.io/github/stars/zombie23991?style=flat-square&color=8b5cf6&labelColor=020617&label=Stars" />
 </p>
 
 ---
 
 ## About
 
-I am a product-minded software engineer focused on building reliable, scalable, and elegant software systems. My work sits at the intersection of full stack engineering, AI product development, cloud infrastructure, and high-quality user experience.
+I am a CEO / CTPO and product-driven builder focused on creating software that actually solves painful business problems. I am not trying to be “the best programmer in the room”. I am trying to be the person who understands the problem better than anyone else, designs the right product, and builds the system fast enough and well enough to make it real.
 
-I specialize in turning complex product problems into clear technical systems: modern web applications, API-driven platforms, AI-powered assistants, internal tools, integrations, analytics dashboards, and production-ready software products. I care deeply about architecture, performance, interface quality, developer experience, and long-term maintainability.
+My strongest edge is being hybrid by default: business vision, product taste, frontend execution, backend ownership, AI-native thinking, and startup speed. I like being close to the problem, close to the user, and close to the code.
 
-My engineering approach combines strong execution with product thinking. I enjoy building software that is not only technically solid, but also useful, fast, understandable, and easy to adopt.
+I care a lot about quality. Not just visual quality, but product quality: clarity, speed, reliability, taste, maintainability, and whether the thing genuinely helps someone get something done faster.
 
-**Core focus areas**
+Right now I am building **Intake**, focused on helping companies resolve internal doubts and requests without creating more work, more waiting, or more back-and-forth for another person.
 
-- Software engineering for SaaS and AI-first products
-- Full stack development with modern frontend and backend systems
-- Applied AI, LLM integrations, agents, retrieval systems, and automation logic
-- Product engineering, UI/UX implementation, analytics, and iteration
-- Cloud deployment, observability, infrastructure, and production operations
+**What I bring to the table**
 
-**Open To**
+- Product vision with real engineering execution
+- Strong frontend taste and high UI/UX standards
+- Full-stack ownership from idea to production
+- Fast learning, fast iteration, fast shipping
+- Strong understanding of business, users, and technical trade-offs
+- Obsession with building products that feel simple, sharp, and useful
 
-- Senior software engineering opportunities
-- AI engineering and applied LLM product roles
-- Full stack product engineering roles
-- Open source collaboration
-- Technical advisory for early-stage software products
+**Open to**
+
+- Conversations with founders, operators, and product teams
+- High-quality product collaborations
+- Technical and product advisory
+- Startup ecosystem opportunities
+- People who want to build serious things with serious taste
 
 ---
 
@@ -68,121 +71,165 @@ My engineering approach combines strong execution with product thinking. I enjoy
 ### Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,cs,php,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,php,dart,java,bash&theme=dark" />
 </p>
 
 ### Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,vite,html,css,tailwind,bootstrap,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,bootstrap,html,css,vite,figma&theme=dark" />
+</p>
+
+### Mobile
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,react&theme=dark" />
 </p>
 
 ### Backend & Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,laravel,postgres,mongodb,mysql,redis,supabase,prisma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,nestjs,express,laravel,mongodb,postgres,mysql,redis,supabase&theme=dark" />
 </p>
 
 ### Cloud, DevOps & Tooling
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,nginx,githubactions,terraform,linux,git,github,postman,vercel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,docker,nginx,githubactions,linux,git,github,postman&theme=dark" />
+</p>
+
+### AI Product Engineering
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-Product%20Integration-111827?style=for-the-badge&logo=openai&logoColor=A78BFA" />
+  <img src="https://img.shields.io/badge/Claude-LLM%20Systems-111827?style=for-the-badge&logo=anthropic&logoColor=A78BFA" />
+  <img src="https://img.shields.io/badge/Embeddings-Semantic%20Search-111827?style=for-the-badge&logo=elastic&logoColor=A78BFA" />
+  <img src="https://img.shields.io/badge/RAG-Knowledge%20Systems-111827?style=for-the-badge&logo=readme&logoColor=A78BFA" />
+  <img src="https://img.shields.io/badge/Agents-Tool%20Use-111827?style=for-the-badge&logo=githubcopilot&logoColor=A78BFA" />
 </p>
 
 ---
 
-## AI / ML Expertise
+## Product & Engineering Expertise
 
-| Domain | Proficiency | Details |
+| Domain | Level | Details |
 |---|---:|---|
-| Large Language Models | Advanced | LLM product integration, prompt architecture, tool usage, structured outputs, routing, safety handling, and evaluation loops |
-| Retrieval-Augmented Generation | Advanced | Knowledge ingestion, embeddings, semantic search, source-aware responses, document Q&A, and context optimization |
-| AI Agents | Advanced | Multi-step reasoning systems, function calling, action execution, tool orchestration, escalation logic, and task-specific agents |
-| Natural Language Processing | Strong | Text classification, intent detection, summarization, entity extraction, sentiment analysis, and support automation |
-| ML Engineering | Strong | Model integration, API design, data pipelines, monitoring, evaluation, and production deployment patterns |
-| AI Product Engineering | Advanced | Designing AI features that solve real product problems with measurable impact, reliability, and user trust |
+| Product Strategy | Advanced | Turning unclear business problems into sharp product bets, MVP scopes, and execution plans |
+| Frontend Engineering | Advanced | Building modern interfaces with strong UI/UX taste, clean components, responsive layouts, and premium product feel |
+| Full Stack Development | Advanced | Owning frontend, backend, APIs, databases, authentication, integrations, and deployment end to end |
+| AI Product Systems | Strong | Applying LLMs, embeddings, RAG, and agents to real business use cases without making the product feel like a gimmick |
+| Startup Execution | Advanced | Moving from idea to shipped product quickly while keeping quality, clarity, and customer learning in the loop |
+| Technical Leadership | Strong | Making pragmatic technical decisions, reducing noise, and keeping teams focused on what actually moves the product forward |
+| Design Taste | Strong | Translating business value into clean product experiences that feel simple, premium, and easy to use |
 
 ---
 
-## Featured Projects
+## Featured Product Chapters
 
 <details>
-<summary><strong>AI Customer Support Platform</strong></summary>
+<summary><strong>Intake — Internal Doubts & Requests, Resolved Faster</strong></summary>
 
 <br>
 
-An AI-powered support system designed to help SaaS teams answer customer questions faster, reduce manual work, and keep support quality consistent across multiple channels.
+Intake helps companies resolve internal doubts and requests without forcing another person to search, answer, chase context, or repeat the same thing again and again.
 
 | Category | Details |
 |---|---|
-| Stack | FastAPI, Python, React, TypeScript, PostgreSQL, Redis, MongoDB, AWS, Docker, LLM APIs |
-| Scale | Multi-channel conversations, knowledge ingestion, team inboxes, AI routing, and human handoff |
-| Performance | Streaming AI responses, cached embeddings, optimized API calls, and async backend operations |
-| Security | JWT authentication, role-based access, secure secrets handling, tenant isolation, and audit-friendly architecture |
-| Impact | Reduced repetitive support work, faster response times, and clearer internal visibility for growing teams |
-| Repository | [View Repository](https://github.com/YOUR_GITHUB_USERNAME/ai-customer-support-platform) |
+| Role | CEO / CTPO / Product & Engineering Lead |
+| Stack | React, Angular, TypeScript, FastAPI, Python, MongoDB, Redis, Supabase, AWS, Docker, LLM APIs |
+| Scope | Product strategy, frontend, backend, AI systems, integrations, infrastructure, and customer discovery |
+| Product Focus | Internal knowledge, support requests, company operations, AI-assisted resolution, and human handoff |
+| Performance | Streaming responses, async APIs, cached knowledge, structured routing, and production-first architecture |
+| Security | Authentication, scoped access, secure secrets, tenant-aware design, and operational safeguards |
+| Impact | Less searching, less asking, less waiting, and more internal things resolved quickly |
+| Status | Active startup focus |
 
-This project combines applied LLM engineering with full stack SaaS architecture. It includes an inbox experience, AI assistant behavior configuration, knowledge base retrieval, escalation rules, user management, integrations, analytics, and production deployment workflows.
+Intake is where my current product energy is concentrated. It combines product thinking, AI-native software, internal operations, and enterprise-grade usability into a system designed to help teams move faster without adding more work to someone else.
 
 </details>
 
 <details>
-<summary><strong>Enterprise Internal Knowledge Assistant</strong></summary>
+<summary><strong>Moodest — Previous Startup Chapter</strong></summary>
 
 <br>
 
-A private AI assistant for teams that need to search internal knowledge, answer operational questions, and reduce dependency on repeated manual explanations.
+Moodest was part of my earlier founder journey and helped shape how I think about product, teams, data, and business problems that live inside companies.
 
 | Category | Details |
 |---|---|
-| Stack | Next.js, TypeScript, Node.js, PostgreSQL, Supabase, Vector Search, OpenAI, Docker |
-| Scale | Document ingestion, semantic search, user permissions, team knowledge spaces, and contextual responses |
-| Performance | Optimized retrieval pipeline, reduced token usage, streaming interface, and indexed knowledge chunks |
-| Security | Authenticated access, scoped data retrieval, secure document handling, and permission-aware answers |
-| Impact | Less time spent searching, fewer repeated questions, and faster access to internal company knowledge |
-| Repository | [View Repository](https://github.com/YOUR_GITHUB_USERNAME/internal-knowledge-assistant) |
+| Role | Founder / Product & Engineering |
+| Stack | Angular, Laravel, MySQL, Flutter, APIs, dashboards, analytics, product systems |
+| Scope | Product definition, web app, mobile app, backend, data models, customer discovery, and iteration |
+| Product Focus | Team insights, internal signals, employee understanding, and decision support |
+| Learning | Building for companies requires clarity, trust, strong UX, and a deep understanding of internal behavior |
+| Impact | Helped evolve my profile from developer to product-first founder |
+| Status | Previous chapter |
 
-The system focuses on practical AI usage inside companies. It transforms scattered documentation into a searchable assistant that provides clear answers while preserving context, permissions, and trust.
+Moodest taught me that good software is not only about features. It is about understanding what people are trying to do, what blocks them, and how to design a product that makes the next step feel obvious.
 
 </details>
 
 <details>
-<summary><strong>Full Stack SaaS Analytics Dashboard</strong></summary>
+<summary><strong>Verbum Quest — Early Product Experiment</strong></summary>
 
 <br>
 
-A modern analytics dashboard for monitoring product usage, operational metrics, customer activity, and business performance in real time.
+Verbum Quest was one of the early projects that pushed me deeper into product thinking, interface design, and building experiences that people can understand quickly.
 
 | Category | Details |
 |---|---|
-| Stack | React, TypeScript, Tailwind CSS, Node.js, PostgreSQL, Redis, Recharts, AWS |
-| Scale | Multi-tenant dashboards, event tracking, user activity, KPI reporting, and role-based views |
-| Performance | Optimized queries, cached metrics, responsive UI, and efficient client-side rendering |
-| Security | Protected routes, API authorization, environment-based configuration, and secure data access |
-| Impact | Improved product visibility, faster decision-making, and cleaner reporting for teams |
-| Repository | [View Repository](https://github.com/YOUR_GITHUB_USERNAME/saas-analytics-dashboard) |
+| Role | Product Builder / Developer |
+| Stack | Web technologies, frontend systems, product experimentation |
+| Scope | Product concept, interface execution, technical implementation, and iteration |
+| Product Focus | Learning through interaction, simple UX, and fast product validation |
+| Engineering Focus | Fast prototyping, UI structure, responsive experience, and usability |
+| Learning | Speed matters, but clarity matters more |
+| Status | Early product chapter |
 
-This project highlights product engineering, data visualization, API design, and frontend architecture. It is designed for teams that need clear visibility without unnecessary complexity.
+This project represents the experimentation side of my journey: building, testing, learning, and improving the way ideas become usable products.
 
 </details>
 
 <details>
-<summary><strong>Cloud-Native API Infrastructure</strong></summary>
+<summary><strong>Ekoora — Early Product Experiment</strong></summary>
 
 <br>
 
-A production-ready backend infrastructure foundation for deploying scalable APIs, background workers, storage, monitoring, and secure cloud services.
+Ekoora was another product chapter focused on learning how to connect business needs with software execution and clean user experiences.
 
 | Category | Details |
 |---|---|
-| Stack | Python, FastAPI, Docker, AWS ECS, ECR, RDS, Redis, S3, CloudFront, GitHub Actions |
-| Scale | Containerized services, managed databases, load balancing, background jobs, and CI/CD pipelines |
-| Performance | Async APIs, horizontal scaling, optimized container builds, and cloud-native deployment patterns |
-| Security | Secrets management, IAM policies, private networking, SSL certificates, and secure runtime configuration |
-| Impact | Faster production deployments, better reliability, and maintainable infrastructure for software teams |
-| Repository | [View Repository](https://github.com/YOUR_GITHUB_USERNAME/cloud-native-api-infrastructure) |
+| Role | Product Builder / Developer |
+| Stack | Web development, product design, frontend and backend implementation |
+| Scope | Problem exploration, product flows, interface work, and software delivery |
+| Product Focus | Practical utility, simple product logic, and user-centered execution |
+| Engineering Focus | End-to-end product building and iteration |
+| Learning | The best products are usually the ones that remove confusion instead of adding complexity |
+| Status | Early product chapter |
 
-This project demonstrates backend engineering, deployment automation, cloud infrastructure, and operational discipline for production systems.
+Ekoora helped reinforce the way I like to build: understand the problem, simplify the experience, ship fast, and keep improving based on what actually happens.
+
+</details>
+
+<details>
+<summary><strong>Cloud & AI Product Infrastructure</strong></summary>
+
+<br>
+
+A recurring part of my work is building the technical foundation behind SaaS products: APIs, databases, authentication, cloud services, integrations, and AI-powered product logic.
+
+| Category | Details |
+|---|---|
+| Role | Full Stack / Product Engineering |
+| Stack | FastAPI, Flask, Node.js, NestJS, Laravel, MongoDB, MySQL, PostgreSQL, Redis, Supabase, AWS, GCP, Docker |
+| Scope | API design, backend architecture, cloud deployment, data modeling, authentication, integrations, and observability |
+| Product Focus | Reliable software foundations that let teams build and iterate faster |
+| Performance | Async services, caching, production deployment, structured APIs, and maintainable system boundaries |
+| Security | Secrets handling, authentication, role-based access, and environment-safe deployment patterns |
+| Impact | Faster product delivery with systems that can grow beyond the first MVP |
+| Status | Ongoing technical foundation |
+
+This is the part of the work that makes products real: turning screens, ideas, and business logic into systems that can run, scale, and be maintained.
 
 </details>
 
@@ -190,47 +237,67 @@ This project demonstrates backend engineering, deployment automation, cloud infr
 
 ## Experience
 
-### Founder & Software Engineer  
-**Moodest / Intake**  
-**2024 — Present**
+### CEO / CTPO  
+**Intake**  
+**2026 — Present**
 
-Building AI-powered software products focused on internal knowledge, customer support, and operational productivity. Responsible for product strategy, software architecture, frontend development, backend systems, AI integrations, cloud deployment, and technical execution.
+Building Intake as a product-first company focused on helping teams resolve internal doubts and requests faster. Leading product direction, software architecture, frontend execution, backend systems, AI product logic, customer discovery, and startup execution.
 
 **Scope of work**
 
-- Designed and built full stack SaaS products from concept to production
-- Developed AI assistant systems using LLMs, retrieval logic, routing, and human handoff
-- Built modern frontend interfaces with strong attention to UI/UX and product usability
-- Implemented backend APIs, authentication, integrations, analytics, and infrastructure
-- Managed production deployment, cloud configuration, observability, and iteration cycles
-- Worked across product, engineering, customer discovery, and go-to-market execution
+- Define product vision, positioning, product flows, and roadmap
+- Build high-quality interfaces with strong attention to frontend detail
+- Own backend systems, APIs, databases, integrations, and deployment
+- Design AI-assisted product logic around real business problems
+- Talk to users, extract signal, and turn feedback into product decisions
+- Move fast without letting the product quality bar drop
 
 <p>
-  <img src="https://img.shields.io/badge/Full%20Stack%20Engineering-111827?style=flat-square&logo=typescript&logoColor=A78BFA" />
-  <img src="https://img.shields.io/badge/AI%20Product%20Engineering-111827?style=flat-square&logo=openai&logoColor=A78BFA" />
-  <img src="https://img.shields.io/badge/SaaS%20Architecture-111827?style=flat-square&logo=vercel&logoColor=A78BFA" />
-  <img src="https://img.shields.io/badge/Cloud%20Deployment-111827?style=flat-square&logo=amazonaws&logoColor=A78BFA" />
+  <img src="https://img.shields.io/badge/CEO%20%2F%20CTPO-020617?style=flat-square&logo=linear&logoColor=A78BFA" />
+  <img src="https://img.shields.io/badge/Product%20Engineering-020617?style=flat-square&logo=vercel&logoColor=A78BFA" />
+  <img src="https://img.shields.io/badge/Frontend%20Taste-020617?style=flat-square&logo=react&logoColor=A78BFA" />
+  <img src="https://img.shields.io/badge/Startup%20Execution-020617?style=flat-square&logo=rocket&logoColor=A78BFA" />
 </p>
 
-### Product Engineer  
-**Independent Software Projects**  
-**2022 — 2024**
+### Founder  
+**Moodest**  
+**Previous Startup Chapter**
 
-Designed and developed web applications, dashboards, internal tools, landing pages, integrations, and automation systems for product-focused teams and early-stage businesses.
+Built and evolved Moodest as an earlier company chapter, working across product, engineering, business, customer discovery, and execution.
 
 **Scope of work**
 
-- Built responsive web applications with modern frontend frameworks
-- Created backend services, APIs, database models, and authentication systems
-- Delivered product interfaces with strong visual quality and usability
-- Integrated third-party APIs, payment systems, CRMs, and communication tools
-- Improved developer workflows, deployment processes, and product iteration speed
+- Built product foundations across web, mobile, backend, and data
+- Worked on dashboards, internal signals, user flows, and company-facing software
+- Developed technical and product judgment through real startup execution
+- Learned how to connect business pain with product simplicity
+- Strengthened the ability to build across design, engineering, and strategy
 
 <p>
-  <img src="https://img.shields.io/badge/Product%20Engineering-111827?style=flat-square&logo=figma&logoColor=818CF8" />
-  <img src="https://img.shields.io/badge/API%20Development-111827?style=flat-square&logo=fastapi&logoColor=818CF8" />
-  <img src="https://img.shields.io/badge/Frontend%20Systems-111827?style=flat-square&logo=react&logoColor=818CF8" />
-  <img src="https://img.shields.io/badge/Startup%20Execution-111827?style=flat-square&logo=github&logoColor=818CF8" />
+  <img src="https://img.shields.io/badge/Founder-020617?style=flat-square&logo=github&logoColor=818CF8" />
+  <img src="https://img.shields.io/badge/Angular-020617?style=flat-square&logo=angular&logoColor=818CF8" />
+  <img src="https://img.shields.io/badge/Laravel-020617?style=flat-square&logo=laravel&logoColor=818CF8" />
+  <img src="https://img.shields.io/badge/Flutter-020617?style=flat-square&logo=flutter&logoColor=818CF8" />
+</p>
+
+### Startup Ecosystem  
+**Lanzadera · TecnoCampus**  
+**Builder Journey**
+
+Part of a startup journey shaped by product experimentation, founder discipline, business learning, and building real software under real constraints.
+
+**Scope of work**
+
+- Built and tested multiple product ideas across different stages
+- Developed a strong product-building mindset through practical execution
+- Combined technical learning with customer conversations and business pressure
+- Improved decision-making around scope, product quality, and speed
+- Learned to build with ambition while staying close to the problem
+
+<p>
+  <img src="https://img.shields.io/badge/Lanzadera-020617?style=flat-square&logo=rocket&logoColor=A78BFA" />
+  <img src="https://img.shields.io/badge/TecnoCampus-020617?style=flat-square&logo=academia&logoColor=A78BFA" />
+  <img src="https://img.shields.io/badge/Founder%20Journey-020617?style=flat-square&logo=linear&logoColor=A78BFA" />
 </p>
 
 ---
@@ -241,64 +308,46 @@ Designed and developed web applications, dashboards, internal tools, landing pag
 
 | Recognition | Details |
 |---|---|
-| Startup Founder | Built and launched software products across AI, SaaS, internal productivity, and support automation |
-| AI Product Builder | Designed applied LLM features for real-world workflows, support operations, and knowledge retrieval |
-| Full Stack Engineer | Delivered frontend, backend, database, cloud, analytics, and integration systems end to end |
-| Product-Minded Developer | Strong focus on usability, business impact, iteration speed, and technical maintainability |
-| Open Source Contributor | Maintains engineering projects, reusable components, and production-oriented repositories |
+| Product-First Founder | Building software companies from problem discovery to product execution |
+| Hybrid Operator | Combines business, product, frontend, backend, and AI product thinking |
+| High-Speed Builder | Moves from idea to working product quickly while keeping quality in focus |
+| Frontend-Obsessed | Strong taste for clean interfaces, sharp layouts, and premium product experience |
+| AI-Native Product Builder | Applies LLMs, embeddings, RAG, and agents to useful product problems, not hype |
+| Startup Ecosystem | Built through real startup environments including Lanzadera and TecnoCampus |
+| Quality Mindset | Obsessed with making products clearer, faster, more useful, and easier to trust |
 
 </p>
 
 ---
 
-## Certifications
+## Operating Principles
 
-### AWS
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-Solutions%20Architecture-4F46E5?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-Serverless%20Foundations-7C3AED?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
-
-### Oracle
-
-<p>
-  <img src="https://img.shields.io/badge/Oracle-Database%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-Java%20Foundations-4F46E5?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
-
-### NPTEL
-
-<p>
-  <img src="https://img.shields.io/badge/NPTEL-Cloud%20Computing-6366F1?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/NPTEL-Machine%20Learning-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/NPTEL-Data%20Structures-8B5CF6?style=for-the-badge&logo=codeforces&logoColor=white" />
-</p>
-
-### Cisco
-
-<p>
-  <img src="https://img.shields.io/badge/Cisco-Networking%20Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Essentials-4F46E5?style=for-the-badge&logo=cisco&logoColor=white" />
-</p>
+| Principle | What it means in practice |
+|---|---|
+| Understand before building | The best technical decision usually starts with understanding the real problem |
+| Taste is leverage | Good UI/UX makes products easier to trust, easier to use, and easier to sell |
+| Ship fast, but not sloppy | Speed matters, but quality creates authority |
+| Product over features | A product is not a list of features. It is a clear way to solve a painful problem |
+| Simplicity wins | The goal is to remove confusion, not impress people with complexity |
+| Stay close to the user | Real feedback beats internal assumptions every time |
+| Build like it has to last | Even MVPs deserve clean foundations when the product is serious |
 
 ---
 
-## Coding Profiles
+## Digital Presence
 
 <p align="center">
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=111827" />
+  <a href="https://cal.com/adria-castany/let-s-have-a-coffee">
+    <img src="https://img.shields.io/badge/Book%20a%20coffee-Calendar-8B5CF6?style=for-the-badge&logo=calendly&logoColor=white&labelColor=020617" />
   </a>
-  <a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=111827" />
+  <a href="https://www.linkedin.com/in/adri%C3%A0-castany-carranza/">
+    <img src="https://img.shields.io/badge/LinkedIn-Adri%C3%A0%20Castany-6366F1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020617" />
   </a>
-  <a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=111827" />
+  <a href="mailto:adriacastany@hotmail.es">
+    <img src="https://img.shields.io/badge/Email-adriacastany%40hotmail.es-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020617" />
   </a>
-  <a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME">
-    <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=111827" />
+  <a href="https://github.com/zombie23991">
+    <img src="https://img.shields.io/badge/GitHub-zombie23991-4F46E5?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" />
   </a>
 </p>
 
@@ -307,15 +356,15 @@ Designed and developed web applications, dashboards, internal tools, landing pag
 ## GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&ring_color=7C3AED" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zombie23991&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&ring_color=7C3AED" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=zombie23991&theme=tokyonight&hide_border=true&background=020617&ring=7C3AED&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zombie23991&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=A78BFA&text_color=E5E7EB" />
 </p>
 
 ---
@@ -323,7 +372,7 @@ Designed and developed web applications, dashboards, internal tools, landing pag
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=discord&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=zombie23991&theme=discord&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=6" />
 </p>
 
 ---
@@ -331,7 +380,7 @@ Designed and developed web applications, dashboards, internal tools, landing pag
 ## Contribution Activity
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=FFFFFF&area=true&area_color=4C1D95" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zombie23991&theme=tokyo-night&hide_border=true&bg_color=020617&color=A78BFA&line=8B5CF6&point=FFFFFF&area=true&area_color=312E81" />
 </p>
 
 ---
@@ -340,9 +389,9 @@ Designed and developed web applications, dashboards, internal tools, landing pag
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zombie23991/zombie23991/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zombie23991/zombie23991/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/zombie23991/zombie23991/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </p>
 
@@ -352,29 +401,32 @@ Designed and developed web applications, dashboards, internal tools, landing pag
 
 ```yaml
 Learning:
-  - Advanced LLM application architecture
-  - Evaluation systems for AI products
-  - Scalable cloud-native backend design
-  - Enterprise-grade product engineering
+  - Better product judgment
+  - Stronger technical leadership
+  - Applied AI systems that create real product value
+  - Premium frontend execution at SaaS quality
+  - Cleaner backend architecture for fast-moving teams
 
 Building:
-  - AI-powered SaaS products
-  - Internal knowledge assistants
-  - Multi-channel support systems
-  - Developer-friendly backend infrastructure
+  - Intake
+  - Internal knowledge and request-resolution systems
+  - AI-assisted product experiences
+  - Fast, sharp, business-aware software
+  - Products with a high quality bar from day one
 
 Exploring:
-  - AI agents for business operations
-  - Retrieval quality and knowledge systems
-  - Product analytics and growth loops
-  - High-quality interface engineering
+  - How companies lose time searching, asking, and waiting
+  - How to make internal work feel lighter
+  - How AI can help without making the product feel weird
+  - How to turn operational chaos into simple product flows
+  - How to build authority through product quality
 
-Open To:
-  - Senior Software Engineering roles
-  - AI Engineering roles
-  - Full Stack Product Engineering roles
-  - Open Source collaboration
-  - Technical advisory opportunities
+Open_To:
+  - Founder conversations
+  - Product and engineering collaborations
+  - Startup ecosystem opportunities
+  - Technical advisory
+  - People who want to build serious things
 ```
 
 ---
@@ -382,26 +434,26 @@ Open To:
 ## Connect
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A" />
+  <a href="https://cal.com/adria-castany/let-s-have-a-coffee">
+    <img src="https://img.shields.io/badge/Schedule%20a%20call-Let's%20have%20a%20coffee-8B5CF6?style=for-the-badge&logo=calendly&logoColor=white&labelColor=020617" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A" />
+  <a href="https://www.linkedin.com/in/adri%C3%A0-castany-carranza/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020617" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Follow-4F46E5?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A" />
+  <a href="mailto:adriacastany@hotmail.es">
+    <img src="https://img.shields.io/badge/Gmail-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020617" />
   </a>
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F172A" />
+  <a href="https://github.com/zombie23991">
+    <img src="https://img.shields.io/badge/GitHub-Follow-4F46E5?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <strong>Building software that is clear, scalable, useful, and engineered to last.</strong>
+  <strong>I like turning messy business problems into clean software systems.</strong>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:312e81,35:6d28d9,70:4c1d95,100:1e1b4b" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:4c1d95,35:312e81,70:111827,100:020617" />
 </p>
